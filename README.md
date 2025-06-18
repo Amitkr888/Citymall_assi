@@ -1,2 +1,1 @@
-# Citymall_assi
-SDE - 1 Assignment | Citymall
+# MemeHustle - MERN Meme Marketplace with Cyberpunk Vibes

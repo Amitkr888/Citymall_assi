@@ -1,0 +1,1 @@
+// Add your Supabase client config here
